@@ -8,7 +8,7 @@
 * [Ashton Hoyt]()
 * [Jakob Hurlbot-Chapman]()
 * [Matthew Kincaid]()
-* [Parker Mader]()
+* [Parker Mader](https://github.com/CerebellaMeme)
 * [Ethan Mann]()
 * [Justina Matej]()
 * [Michael Miller]()
